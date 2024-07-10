@@ -1,0 +1,19 @@
+html{
+ text-align: center;
+ background: rgb(80, 255, 80);
+ color: rgb(255, 80, 80);
+}
+body{
+  margin: auto;
+  width : 60%; 
+  padding: 10px;
+  background-color: blue;
+  margin-top: 10%;
+}
+button{
+ background: rgb(238, 255, 80);
+ color: red;
+ border: none;
+ padding: 10px;
+ border: 15px;
+}
